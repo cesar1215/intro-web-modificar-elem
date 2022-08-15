@@ -7,6 +7,11 @@
 ## Introducción
 Hemos aprendido a utilizar `.querySelector()` para seleccionar un elemento a través de su tipo, id, o clase. También aprendimos que la propiedad `.style` de une elemento DOM proporciona acesso al estilo en línea de esa etiqueta HTML. Es hora de poner en práctica nuestros aprendizajes. 
 
+### Funcionalidad del Código
+En éste lab utilizarás JavaScript para:
+- Cambiar el color de fondo de `body` 
+- Cambiar la posición de `bird`
+
 ## Instrucciones
 Bifurca (fork) y clona (clone) este lab en tu entorno local. Navega a su directorio en la terminal, luego ejecuta el comando `code .` para abrir sus archivos en Visual Studio Code. 
 
